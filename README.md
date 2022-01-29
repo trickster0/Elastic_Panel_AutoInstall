@@ -1,5 +1,5 @@
-# ElasticEDR_Autoinstall
-Spawn Up quickly Elastic EDR Panel
+# Elastic_Panel_AutoInstall
+Spawn Up quickly Elastic Panel
 
 
 # Instructions
