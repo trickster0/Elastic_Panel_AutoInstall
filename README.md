@@ -8,7 +8,7 @@ Just run autoinstall.sh to install Elastic panel quickly and use the EDR.
 This will setup the fleet server in the elasticsearch/kibana server. 
 During the setup input will be asked, just replace (A)ll.  
 This is setup for IP 192.168.2.70, if you want a different IP execute:  
-`sed -i 's/192.168.2.70/xxx.xxx.xxx.xxx/g' *.yml`. 
+`sed -i 's/192.168.2.70/xxx.xxx.xxx.xxx/g' *.yml`.   
 Where xxx.xxx.xxx.xxx will be the Elastic Server IP.  
 This was tested in Ubuntu 20.04, make sure to create a user called elastic for proper installation.  
 In /home/elastic, there will be a passwords.txt file with all the passwords, you will mostly need the last one to login in the panel.  
